@@ -1,0 +1,176 @@
+body {
+    font-family: 'Manrope', sans-serif;
+}
+    
+.container {
+    width: 1150px;
+    margin: 0 auto;
+}
+
+.conteiner-services {
+    background-color: #121212;
+}
+
+/* Main */
+
+/* top-info section */
+
+.top-info {
+    margin: 0;
+    padding: 0;
+}
+
+.top-info-title{
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 60px;
+    margin-bottom: 30px;
+}   
+
+.top-info-img {
+    position: relative;
+    background-image: url('../images/top-img.jpg');
+    background-repeat: no-repeat;
+    width: 1150px;
+    height: 500px;
+    margin-bottom: 150px;   
+}
+
+.top-info-img-text {
+    position: absolute;
+    left: 40px;
+    bottom: 40px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: #fff; 
+}
+
+/* about-us section */
+
+.about-us {
+    margin-bottom: 170px;
+}
+
+.about-us-title {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 30px;
+}   
+
+.about-us-text {
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 62px;
+    margin-bottom: 50px;
+}
+
+.about-us-btn {
+    padding: 20px 40px;
+    background-color: #AD1818;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px; 
+}
+
+/* project section */
+
+.project {
+    margin-bottom: 90px;
+}
+
+.about-us-btn:hover {
+    color: #AD1818;
+    background-color: #fff;
+}
+
+.project-title {
+    margin-bottom: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #121212;
+}
+
+.project-img {
+    margin-bottom: 15px;
+}
+
+.project-text {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 41px;
+    margin-bottom: 15px;
+    color: #121212;
+}
+
+.project-btn {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: #AD1818;
+}
+
+.project-big-btn {
+    margin-bottom: 150px;
+}
+
+.big-btn {
+    width: 1150px;
+    height: 153px;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 41px;
+    color: #AD1818;
+    background-color: #fff;
+    border-color: #AD1818;
+    border-radius: 5px;
+    border: 1px solid;
+}
+
+.big-btn:hover {
+    color: #fff;
+    background-color: #AD1818;
+}
+
+/* servuces section */
+
+.services-content {
+    width: 1150px;
+    margin: 0 auto;
+}   
+
+.services-title {
+    padding-top: 151px;
+    padding-bottom: 34px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.serivces-img {
+    margin-bottom: 15px;
+}
+
+.services-text {
+    color: #fff;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 41px;
+    padding-bottom: 60px;
+}
+
+.services-text-last {
+    color: #fff;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 41px;
+    padding-bottom: 150px;
+}
