@@ -134,6 +134,7 @@ body {
     font-size: 30px;
     line-height: 41px;
     color: #AD1818;
+    cursor: pointer;
     background-color: #fff;
     border-color: #AD1818;
     border-radius: 5px;
